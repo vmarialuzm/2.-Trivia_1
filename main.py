@@ -21,7 +21,7 @@ jugador_turnos = []
 #Mensaje de bienvenida
 print(RED+"*** Bienvenidos a mi primera trivia ***\n")
 time.sleep(1)
-print("Pondremos a prueba tus conocimientos"+RESET)
+print("Pondremos a prueba tus Conocimientos"+RESET)
 time.sleep(1)
 
 #Preguntemos el nombre al usuario
